@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Lab4_Template.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                     &nbsp;<asp:Image ID="Image1" 
+                         runat="server" ImageUrl="~/images/logo.png" ImageAlign="Middle" />
+                     &nbsp;&nbsp;
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <asp:Label ID="lblUser" runat="server" Text="Label"></asp:Label>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                          <asp:MenuItem Text="Home" Value="Home" NavigateUrl="Home.aspx"></asp:MenuItem>
+                          <asp:MenuItem Text="Report" Value="Report" NavigateUrl="Repost.aspx"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="About"/>
+                       <asp:MenuItem Text="Product" Value="Store" NavigateUrl="~/ListProduct.aspx">
+                            <asp:MenuItem NavigateUrl="~/AddNewProduct.aspx" Text="Thêm mới sản phẩm"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/ViewOrderByDate.aspx" Text="Order DATE"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/GoodProducts.aspx" Text="Sản phẩm bán chạy nhất"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Income.aspx" Text="Income"></asp:MenuItem>
+                        </asp:MenuItem>
+                      
+                        <asp:MenuItem NavigateUrl="~/InfoUser.aspx" Text="Thông tin cá nhân">
+                            <asp:MenuItem NavigateUrl="~/sanphamdamua.aspx" Text="Sản phẩm đã mua"></asp:MenuItem>
+                           
+                        </asp:MenuItem>
+                         <asp:MenuItem  NavigateUrl="~/login.aspx" Text="Đăng xuất"></asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,28 @@
+C:\Users\longd\source\repos\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.dll.config
+C:\Users\longd\source\repos\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.dll
+C:\Users\longd\source\repos\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.pdb
+C:\Users\longd\source\repos\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.csprojAssemblyReference.cache
+C:\Users\longd\source\repos\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.csproj.CoreCompileInputs.cache
+C:\Users\longd\source\repos\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.dll
+C:\Users\longd\source\repos\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.pdb
+C:\Users\Thai\Downloads\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.csprojAssemblyReference.cache
+C:\Users\Thai\Downloads\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.csproj.CoreCompileInputs.cache
+C:\Users\Thai\Downloads\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.dll
+C:\Users\Thai\Downloads\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.pdb
+C:\Users\Thai\Downloads\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.dll.config
+C:\Users\Thai\Downloads\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.dll
+C:\Users\Thai\Downloads\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.pdb
+C:\Users\Thai\Documents\FU-Data Learning\VisualsProjects\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.dll.config
+C:\Users\Thai\Documents\FU-Data Learning\VisualsProjects\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.dll
+C:\Users\Thai\Documents\FU-Data Learning\VisualsProjects\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.pdb
+C:\Users\Thai\Documents\FU-Data Learning\VisualsProjects\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.csprojAssemblyReference.cache
+C:\Users\Thai\Documents\FU-Data Learning\VisualsProjects\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.csproj.CoreCompileInputs.cache
+C:\Users\Thai\Documents\FU-Data Learning\VisualsProjects\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.dll
+C:\Users\Thai\Documents\FU-Data Learning\VisualsProjects\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.pdb
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.dll.config
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.dll
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.pdb
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.csprojAssemblyReference.cache
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.csproj.CoreCompileInputs.cache
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.dll
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.pdb

@@ -1,0 +1,7 @@
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.dll.config
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.dll
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\bin\ProjectTocotoco.pdb
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotocoFull.csprojAssemblyReference.cache
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotocoFull.csproj.CoreCompileInputs.cache
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.dll
+C:\Users\longd\OneDrive\Desktop\ProjectTocotoco1\ProjectTocotoco\ProjectTocotoco\obj\Debug\ProjectTocotoco.pdb
